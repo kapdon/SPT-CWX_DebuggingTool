@@ -8,6 +8,8 @@ using UnityEngine;
 using System.Reflection;
 using CWX_DebuggingTool.Models;
 
+using InfoClass = ProfileInfo;
+
 namespace CWX_DebuggingTool
 {
     public sealed class BotmonClass : MonoBehaviour
